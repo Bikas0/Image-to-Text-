@@ -1,7 +1,7 @@
-```ini
+
 28<sup>th</sup> February 12:18pm 2024
 <h1>Exrtract text from image</h1>
-```
+
 
 ```ini
 # Create virual envirionment
